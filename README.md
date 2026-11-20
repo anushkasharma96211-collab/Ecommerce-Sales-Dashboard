@@ -12,8 +12,7 @@ This project analyzes 3,500 e-commerce sales transactions using Python to clean 
 
 ## How to Run
 1. Install required libraries: `pip install -r requirements.txt`
-2. Run the dashboard script: `python3 ecommerce_dashboard.py`
+2. Run the dashboard script: `jupyter notebook ecommerce_analysis_colab.ipynb`
  
 
- ## Dashboard Preview 
- ![E-Commerce Dashboard](Figure_1.png)
+ 
